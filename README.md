@@ -29,3 +29,7 @@ With its Chrome sync powers, TaskLite ensures your tasks follow you everywhere. 
 Remember, using TaskLite doesn't automatically make you productive. But it does make you look like you're trying, and isn't that what really counts?
 
 Download TaskLite today – because your mom called, and she wants you to get your life together! 🌟
+
+## Project links
+
+[Source](https://github.com/Up-to-code/TaskLite) · [Issues](https://github.com/Up-to-code/TaskLite/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
